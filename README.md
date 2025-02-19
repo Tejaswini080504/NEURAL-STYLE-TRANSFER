@@ -51,7 +51,7 @@ matplotlib: Used for displaying images.
 PIL (Pillow): Used for image manipulation (loading, saving, etc.).
 
 # OUTPUT:
-
+![Image](https://github.com/user-attachments/assets/17351fc8-ede6-403a-b1a7-1d4ce75b559e)
 
 ![Image](https://github.com/user-attachments/assets/129d3554-6057-471b-aeba-ba8492295d39)
 
